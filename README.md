@@ -1,1 +1,1 @@
-# X-ray pectroscopy
+# X-ray Spectroscopy
