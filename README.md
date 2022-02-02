@@ -37,7 +37,7 @@ It will produce the exact same standard library `logging` records behind the sce
 
 ## Installation
 
-Install this library directly into an activated virtual environment:
+Install all packages:
 
 ```text
 $ pip install -r requirements.txt
